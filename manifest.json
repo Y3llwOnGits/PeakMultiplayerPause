@@ -1,0 +1,9 @@
+{
+  "name": "MultiplayerPause",
+  "description": "The multiplayer pause function your parents have been wanting you to install :)",
+  "version_number": "1.0.2",
+  "website_url": "https://github.com/Y3llwOnGits/PeakMultiplayerPause",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403"
+  ]
+}
